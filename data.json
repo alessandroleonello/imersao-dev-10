@@ -1,0 +1,368 @@
+[
+  {
+    "nome": "Operações Básicas",
+    "descricao": "Soma, subtração, multiplicação e divisão.",
+    "link": "https://www.youtube.com/watch?v=h3sFlP8Rmqc&pp=ygUfNCBvcGVyYcOnw7VlcyBiw6FzaWNhcyBjb21wbGV0bw%3D%3D",
+    "serie": "6º ano EF"
+  },
+  {
+    "nome": "Frações",
+    "descricao": "Conceitos e operações com frações.",
+    "link": "https://www.youtube.com/watch?v=vF0Q0ZAH9Uc&list=PLGyv8aUrOlzCWzESnCz0O-WzeOCupSDlZ",
+    "serie": "6º ano EF"
+  },
+  {
+    "nome": "Regra de Três Simples e Composta",
+    "descricao": "Resolvendo problemas de proporcionalidade direta e inversa.",
+    "link": "https://www.youtube.com/watch?v=H5It7WL5WMA&pp=ygUhUmVncmEgZGUgVHLDqnMgU2ltcGxlcyBlIENvbXBvc3Rh",
+    "serie": "7º ano EF"
+  },
+  {
+    "nome": "Porcentagem",
+    "descricao": "Cálculos de porcentagem, acréscimos e descontos.",
+    "link": "https://www.youtube.com/watch?v=OjOyNmTt7Mw&pp=ygULcG9yY2VudGFnZW0%3D",
+    "serie": "7º ano EF"
+  },
+  {
+    "nome": "Potenciação e Radiciação",
+    "descricao": "Propriedades de potências e raízes.",
+    "link": "https://www.youtube.com/watch?v=8b3TVBpUSrU&list=PLaKmzX_hXWkKRbbi0Tp80ADM9bwzj1IaE",
+    "serie": "8º ano EF"
+  },
+  {
+    "nome": "Equações de 1º e 2º Grau",
+    "descricao": "Resolução de equações e a fórmula de Bhaskara.",
+    "link": "https://www.youtube.com/watch?v=tfm9kUrO5GI&pp=ygUcRXF1YcOnw7VlcyBkZSAxwrogZSAywrogR3JhdQ%3D%3D",
+    "serie": "9º ano EF"
+  },
+  {
+    "nome": "Geometria Plana",
+    "descricao": "Cálculo de áreas e perímetros de figuras planas.",
+    "link": "https://www.youtube.com/watch?v=EzGf1UEnnsY&pp=ygUPR2VvbWV0cmlhIFBsYW5h",
+    "serie": "7º ano EF"
+  },
+  {
+    "nome": "Trigonometria",
+    "descricao": "Seno, cosseno, tangente no triângulo retângulo e ciclo trigonométrico.",
+    "link": "https://www.youtube.com/watch?v=D-E_A04ReTE&pp=ygUNVHJpZ29ub21ldHJpYQ%3D%3D",
+    "serie": "9º ano EF"
+  },
+  {
+    "nome": "Análise Combinatória",
+    "descricao": "Princípio fundamental da contagem, arranjos, permutações e combinações.",
+    "link": "https://www.youtube.com/watch?v=_8mZOSXCRp8&pp=ygUWQW7DoWxpc2UgQ29tYmluYXTDs3JpYQ%3D%3D",
+    "serie": "Ensino Médio"
+  },
+  {
+    "nome": "Probabilidade",
+    "descricao": "Cálculo da chance de ocorrência de eventos.",
+    "link": "https://www.youtube.com/watch?v=AZH67sWDW5w&pp=ygUNcHJvYmFiaWxpZGFkZQ%3D%3D",
+    "serie": "Ensino Médio"
+  },
+  {
+    "nome": "Juros Simples e Compostos",
+    "descricao": "Entendendo e calculando juros em aplicações financeiras e empréstimos.",
+    "link": "https://www.youtube.com/watch?v=KHaqyh6xQUk&list=PLGyv8aUrOlzDImo9ljTFYQV5oAyOAAwlN",
+    "serie": "Ensino Médio"
+  },
+  {
+    "nome": "Funções",
+    "descricao": "Estudo de funções do 1º grau (afim), 2º grau (quadrática) e exponencial.",
+    "link": "https://www.youtube.com/watch?v=SPZqQ5qn3P0&list=PLTPg64KdGgYiYqKmotPzPJVchCwKpTLzm",
+    "serie": "Ensino Médio"
+  },
+  {
+    "nome": "Números Inteiros (Z)",
+    "descricao": "Estudo dos números positivos, negativos e o zero, incluindo as regras de adição e subtração.",
+    "link": "https://www.youtube.com/watch?v=68CP_MPzXqo&list=PLGyv8aUrOlzC9ArV5DlA2b96kr79M6TSS",
+    "serie": "6º ano EF"
+  },
+  {
+    "nome": "Divisibilidade",
+    "descricao": "Critérios para verificar quando um número é divisível por outro (por 2, 3, 5, 9, 10), essencial para fatoração.",
+    "link": "https://www.youtube.com/watch?v=RAXp2qjhA1M&t=952s&pp=ygUORGl2aXNpYmlsaWRhZGU%3D",
+    "serie": "6º ano EF"
+  },
+  {
+    "nome": "Mínimo Múltiplo Comum (MMC)",
+    "descricao": "Método para encontrar o menor múltiplo comum entre dois ou mais números, crucial para operações com denominadores diferentes.",
+    "link": "https://www.youtube.com/watch?v=PmlNQeBfp7I&pp=ygUdTcOtbmltbyBNw7psdGlwbG8gQ29tdW0gKE1NQynSBwkJCwoBhyohjO8%3D",
+    "serie": "6º ano EF"
+  },
+  {
+    "nome": "Máximo Divisor Comum (MDC)",
+    "descricao": "Método para encontrar o maior número que divide simultaneamente dois ou mais números, usado para simplificação.",
+    "link": "https://www.youtube.com/watch?v=MK4cSSdNTHo&pp=ygUaw6F4aW1vIERpdmlzb3IgQ29tdW0gKE1EQyk%3D",
+    "serie": "6º ano EF"
+  },
+  {
+    "nome": "Números Racionais (Q)",
+    "descricao": "O conjunto dos números que podem ser escritos na forma de razão (a/b), englobando inteiros, decimais exatos e dízimas periódicas.",
+    "link": "https://www.youtube.com/watch?v=4yxQu7p1MGs&pp=ygUSTsO6bWVyb3MgUmFjaW9uYWlz",
+    "serie": "7º ano EF"
+  },
+  {
+    "nome": "Expressões Numéricas",
+    "descricao": "Cálculos que envolvem diversas operações, exigindo a aplicação correta da ordem de precedência (parênteses, colchetes, chaves).",
+    "link": "https://www.youtube.com/watch?v=cFVKlZezMc0&pp=ygUWRXhwcmVzc8O1ZXMgTnVtw6lyaWNhcw%3D%3D",
+    "serie": "7º ano EF"
+  },
+  {
+    "nome": "Monômios e Polinômios",
+    "descricao": "Estudo de expressões algébricas que contêm um ou mais termos, incluindo a classificação e operações básicas (soma, subtração, multiplicação).",
+    "link": "https://www.youtube.com/watch?v=8WzD4o1oDtQ&t=329s&pp=ygUXTW9uw7RtaW9zIGUgUG9saW7DtG1pb3M%3D",
+    "serie": "8º ano EF"
+  },
+  {
+    "nome": "Produtos Notáveis",
+    "descricao": "Fórmulas algébricas de multiplicação frequentemente encontradas, como o quadrado da soma e o quadrado da diferença.",
+    "link": "https://www.youtube.com/watch?v=C_dLST3fa6s&pp=ygUSUHJvZHV0b3MgTm90w6F2ZWlz",
+    "serie": "8º ano EF"
+  },
+  {
+    "nome": "Fatoração Algébrica",
+    "descricao": "Processo de decompor polinômios em produtos de fatores, utilizando técnicas como fator comum e diferença de quadrados.",
+    "link": "https://www.youtube.com/watch?v=bHIP8Ei5PFA&list=PLGyv8aUrOlzARcfmaq1sarZoqRrydFJ8X",
+    "serie": "8º ano EF"
+  },
+  {
+    "nome": "Sistemas de Equações Lineares",
+    "descricao": "Métodos (substituição e adição) para encontrar o conjunto solução de duas ou mais equações interligadas de primeiro grau.",
+    "link": "https://www.youtube.com/watch?v=cs0BdQyP7ZY&pp=ygUfU2lzdGVtYXMgZGUgRXF1YcOnw7VlcyBMaW5lYXJlcw%3D%3D",
+    "serie": "9º ano EF"
+  },
+  {
+    "nome": "Inequações do Primeiro Grau",
+    "descricao": "Expressões que usam sinais de desigualdade (<, >, ≤, ≥) em vez de igualdade, e seu método de resolução e representação na reta numérica.",
+    "link": "https://www.youtube.com/watch?v=2D6uhOJtN44&pp=ygUzSW5lcXVhw6fDtWVzIGRvIFByaW1laXJvIEdyYXVkZSBFcXVhw6fDtWVzIExpbmVhcmVz",
+    "serie": "9º ano EF"
+  },
+  {
+    "nome": "Teorema de Pitágoras",
+    "descricao": "Relação fundamental em triângulos retângulos (a² + b² = c²), utilizada para calcular medidas de lados desconhecidos.",
+    "link": "https://www.youtube.com/watch?v=RxfPjqXx-g0&pp=ygU7VGVvcmVtYSBkZSBQaXTDoWdvcmFzZG8gUHJpbWVpcm8gR3JhdWRlIEVxdWHDp8O1ZXMgTGluZWFyZXM%3D",
+    "serie": "9º ano EF"
+  },
+  {
+    "nome": "Semelhança de Triângulos",
+    "descricao": "Estudo de triângulos que possuem ângulos congruentes e lados proporcionais, aplicando o conceito de razão de semelhança.",
+    "link": "https://www.youtube.com/watch?v=TeKvhnJgNYU&pp=ygUaU2VtZWxoYW7Dp2EgZGUgVHJpw6JuZ3Vsb3M%3D",
+    "serie": "9º ano EF"
+  },
+  {
+    "nome": "Conjuntos Numéricos",
+    "descricao": "A classificação e inter-relação entre os diferentes grupos de números: Naturais (N), Inteiros (Z), Racionais (Q), Irracionais (I) e Reais (R).",
+    "link": "https://www.youtube.com/watch?v=rDEJDS5zJ3U&pp=ygUUY29uanVudG9zIG51bcOpcmljb3M%3D",
+    "serie": "1ª série EM"
+  },
+  {
+    "nome": "Logaritmos",
+    "descricao": "Operação inversa da potenciação, utilizada para determinar o expoente ao qual uma base deve ser elevada para produzir um certo número.",
+    "link": "https://www.youtube.com/watch?v=xpUxOm7M76w&list=PLGyv8aUrOlzA9SnHx_PAGmbvfsCcGslnt",
+    "serie": "1ª série EM"
+  },
+  {
+    "nome": "Progressões Aritméticas (PA)",
+    "descricao": "Sequências numéricas em que a diferença entre termos consecutivos é constante (razão). Fórmulas do termo geral e soma dos termos.",
+    "link": "https://www.youtube.com/watch?v=waIXJzREyw8&pp=ygUeUHJvZ3Jlc3PDtWVzIEFyaXRtw6l0aWNhcyAoUEEp",
+    "serie": "2ª série EM"
+  },
+  {
+    "nome": "Progressões Geométricas (PG)",
+    "descricao": "Sequências numéricas em que a razão entre termos consecutivos é constante (razão multiplicativa). Fórmulas do termo geral e soma.",
+    "link": "https://www.youtube.com/watch?v=lyklfilW_WY&pp=ygUeUHJvZ3Jlc3PDtWVzIEdlb23DqXRyaWNhcyAoUEcp",
+    "serie": "2ª série EM"
+  },
+  {
+    "nome": "Matrizes",
+    "descricao": "Organização de dados em linhas e colunas, incluindo tipos de matrizes (quadrada, identidade) e operações de adição e multiplicação matricial.",
+    "link": "https://www.youtube.com/watch?v=kDr1CdPuVXo&pp=ygUITWF0cml6ZXM%3D",
+    "serie": "2ª série EM"
+  },
+  {
+    "nome": "Determinantes",
+    "descricao": "Valor escalar associado a uma matriz quadrada, usado para verificar a inversibilidade de uma matriz e resolver sistemas lineares.",
+    "link": "https://www.youtube.com/watch?v=MDcL-ghxn-E&pp=ygUNRGV0ZXJtaW5hbnRlcw%3D%3D",
+    "serie": "2ª série EM"
+  },
+  {
+    "nome": "Sistemas Lineares (Escalonamento)",
+    "descricao": "Método de resolução de sistemas com múltiplas variáveis, transformando a matriz aumentada em uma forma escalonada.",
+    "link": "https://www.youtube.com/watch?v=_tGg0u0yJBM&pp=ygUhU2lzdGVtYXMgTGluZWFyZXMgKEVzY2Fsb25hbWVudG8p",
+    "serie": "2ª série EM"
+  },
+  {
+    "nome": "Números Complexos",
+    "descricao": "Estudo de números que incluem a unidade imaginária (i), utilizados para resolver equações que não possuem solução no conjunto dos Reais.",
+    "link": "https://www.youtube.com/watch?v=KQaH2DCYEP4&list=PLGyv8aUrOlzAbY78R8prL54ubE0-Bk3Cq",
+    "serie": "3ª série EM"
+  },
+  {
+    "nome": "Geometria Espacial (Sólidos)",
+    "descricao": "Cálculo de volume e área superficial de prismas, pirâmides, cilindros e cones, focando nas fórmulas de cada sólido.",
+    "link": "https://www.youtube.com/watch?v=RGlCdaZJrI4&pp=ygUdR2VvbWV0cmlhIEVzcGFjaWFsIChTw7NsaWRvcyk%3D",
+    "serie": "3ª série EM"
+  },
+  {
+    "nome": "Geometria Analítica (Reta)",
+    "descricao": "O estudo da reta no plano cartesiano, incluindo cálculo de distância entre pontos, ponto médio e equação geral da reta.",
+    "link": "https://www.youtube.com/watch?v=lHqTFWNBtmQ&pp=ygUbR2VvbWV0cmlhIEFuYWzDrXRpY2EgKFJldGEp",
+    "serie": "3ª série EM"
+  },
+  {
+    "nome": "Estatística Descritiva",
+    "descricao": "Análise de dados por meio de medidas de tendência central: cálculo de Média (aritmética e ponderada), Moda e Mediana.",
+    "link": "https://www.youtube.com/watch?v=mSk2vjGXA90&pp=ygUXRXN0YXTDrXN0aWNhIERlc2NyaXRpdmE%3D",
+    "serie": "3ª série EM"
+  },
+  {
+    "nome": "Cálculo de Limites (Introdução)",
+    "descricao": "Conceito fundamental que descreve o comportamento de uma função à medida que o valor da entrada se aproxima de algum ponto específico.",
+    "link": "https://www.youtube.com/watch?v=DkCHV5Kbx4o&pp=ygUiQ8OhbGN1bG8gZGUgTGltaXRlcyAoSW50cm9kdcOnw6NvKQ%3D%3D",
+    "serie": "3ª série EM"
+  },
+  {
+    "nome": "Função Afim",
+    "descricao": "Estudo da função de primeiro grau, sua representação gráfica (reta) e coeficiente angular e linear.",
+    "link": "https://www.youtube.com/watch?v=hdMFlAv5GkU&pp=ygUQRnVuw6fDo28gMSBncmF1Ig%3D%3D",
+    "serie": "9º ano EF"
+  },
+  {
+    "nome": "Função Quadrática",
+    "descricao": "Estudo da função de segundo grau, suas raízes, vértice e o gráfico em forma de parábola.",
+    "link": "https://www.youtube.com/watch?v=mX3Xeq4QEyQ&pp=ygUURnVuw6fDo28gUXVhZHLDoXRpY2E%3D",
+    "serie": "1ª série EM"
+  },
+  {
+    "nome": "Equações Exponenciais",
+    "descricao": "Equações onde a incógnita aparece no expoente, exigindo a igualdade de bases para a solução.",
+    "link": "https://www.youtube.com/watch?v=7EPKmS68KT0&pp=ygUXRXF1YcOnw7VlcyBFeHBvbmVuY2lhaXM%3D",
+    "serie": "2ª série EM"
+  },
+  {
+    "nome": "Lei dos Senos e Cossenos",
+    "descricao": "Fórmulas usadas para encontrar lados e ângulos desconhecidos em triângulos não retângulos.",
+    "link": "https://www.youtube.com/watch?v=9ngYXYmcZw8&pp=ygUYTGVpIGRvcyBTZW5vcyBlIENvc3Nlbm9z",
+    "serie": "2ª série EM"
+  },
+  {
+    "nome": "Medidas de Tendência Central",
+    "descricao": "Cálculo da Média Aritmética, Mediana e Moda para descrever um conjunto de dados.",
+    "link": "https://www.youtube.com/watch?v=GIzwKJL33_g&pp=ygUdTWVkaWRhcyBkZSBUZW5kw6puY2lhIENlbnRyYWw%3D",
+    "serie": "8º ano EF"
+  },
+  {
+    "nome": "Transformações Geométricas",
+    "descricao": "Estudo de Translação, Rotação e Reflexão de figuras no plano cartesiano.",
+    "link": "https://www.youtube.com/watch?v=lam0czTT7Qs&pp=ygUdVHJhbnNmb3JtYcOnw7VlcyBHZW9tw6l0cmljYXM%3D",
+    "serie": "9º ano EF"
+  },
+  {
+    "nome": "Volume de Sólidos de Revolução",
+    "descricao": "Cálculo do volume de figuras tridimensionais geradas pela rotação de uma curva em torno de um eixo.",
+    "link": "https://www.youtube.com/watch?v=2y_W6z5wLpY&pp=ygUhVm9sdW1lIGRlIFPDs2xpZG9zIGRlIFJldm9sdcOnw6Nv",
+    "serie": "3ª série EM"
+  },
+  {
+    "nome": "Distância entre Pontos",
+    "descricao": "Fórmula para calcular a medida do segmento de reta que liga dois pontos no plano cartesiano.",
+    "link": "https://www.youtube.com/watch?v=C2vQ9pMkvpU&pp=ygUXRGlzdMOibmNpYSBlbnRyZSBQb250b3M%3D",
+    "serie": "2ª série EM"
+  },
+  {
+    "nome": "Inequações do Segundo Grau",
+    "descricao": "Resolução de desigualdades que envolvem polinômios de grau dois, utilizando o estudo do sinal da parábola.",
+    "link": "https://www.youtube.com/watch?v=8ZFSKCUngyw&pp=ygUcSW5lcXVhw6fDtWVzIGRvIFNlZ3VuZG8gR3JhdQ%3D%3D",
+    "serie": "1ª série EM"
+  },
+  {
+    "nome": "Lógica Proposicional",
+    "descricao": "Estudo das proposições, valores verdadeiros ou falsos e conectivos lógicos (e, ou, se... então).",
+    "link": "https://www.youtube.com/watch?v=KXm8Hi-I_G0&pp=ygUVTMOzZ2ljYSBQcm9wb3NpY2lvbmFs0gcJCQsKAYcqIYzv",
+    "serie": "3ª série EM"
+  },
+  {
+    "nome": "Representação Decimal Periódica",
+    "descricao": "Como converter dízimas periódicas simples e compostas em frações geratrizes.",
+    "link": "https://www.youtube.com/watch?v=hMmPidxIDiw&t=15s&pp=ygUiUmVwcmVzZW50YcOnw6NvIERlY2ltYWwgUGVyacOzZGljYQ%3D%3D",
+    "serie": "7º ano EF"
+  },
+  {
+    "nome": "Domínio e Imagem de uma Função",
+    "descricao": "Determinação dos conjuntos de valores possíveis para a variável independente (domínio) e dependente (imagem).",
+    "link": "https://www.youtube.com/watch?v=JBs07Iik6DQ&pp=ygUhRG9tw61uaW8gZSBJbWFnZW0gZGUgdW1hIEZ1bsOnw6Nv",
+    "serie": "9º ano EF"
+  },
+  {
+    "nome": "Princípio Fundamental da Contagem (PFC)",
+    "descricao": "Método que permite calcular o número total de possibilidades de um evento composto por várias etapas.",
+    "link": "https://www.youtube.com/watch?v=xC9RNdce-mg&pp=ygUoUHJpbmPDrXBpbyBGdW5kYW1lbnRhbCBkYSBDb250YWdlbSAoUEZDKQ%3D%3D",
+    "serie": "2ª série EM"
+  },
+  {
+    "nome": "Cálculo de Fatorial",
+    "descricao": "Operação matemática que consiste no produto de um número inteiro positivo por todos os seus antecessores até 1.",
+    "link": "https://www.youtube.com/watch?v=ax8tUSFJ8gM&pp=ygUUQ8OhbGN1bG8gZGUgRmF0b3JpYWw%3D",
+    "serie": "2ª série EM"
+  },
+  {
+    "nome": "Operações com Conjuntos",
+    "descricao": "União, Interseção, Diferença e Complementar de conjuntos, e sua representação por Diagramas de Venn.",
+    "link": "https://www.youtube.com/watch?v=GgqIUBwyQm4&t=41s&pp=ygUZT3BlcmHDp8O1ZXMgY29tIENvbmp1bnRvcw%3D%3D",
+    "serie": "1ª série EM"
+  },
+  {
+    "nome": "Equação da Circunferência",
+    "descricao": "Fórmula geral e reduzida para descrever o lugar geométrico dos pontos equidistantes de um centro fixo.",
+    "link": "https://www.youtube.com/watch?v=oOou4wUX3Hk&pp=ygUcRXF1YcOnw6NvIGRhIENpcmN1bmZlcsOqbmNpYQ%3D%3D",
+    "serie": "3ª série EM"
+  },
+  {
+    "nome": "Vetores no Plano",
+    "descricao": "Representação e operações básicas (soma, subtração, multiplicação por escalar) de vetores em R².",
+    "link": "https://www.youtube.com/watch?v=S9zlJFg7pZY&pp=ygUQVmV0b3JlcyBubyBQbGFubw%3D%3D",
+    "serie": "3ª série EM"
+  },
+  {
+    "nome": "Desvio Padrão e Variância",
+    "descricao": "Medidas de dispersão que indicam o quão espalhados estão os valores em relação à média.",
+    "link": "https://www.youtube.com/watch?v=JEwd0Vlqapo&pp=ygUbRGVzdmlvIFBhZHLDo28gZSBWYXJpw6JuY2lh",
+    "serie": "9º ano EF"
+  },
+  {
+    "nome": "Função Inversa",
+    "descricao": "Cálculo e análise da função que reverte o efeito da função original, invertendo domínio e imagem.",
+    "link": "https://www.youtube.com/watch?v=aSXWoSvmvNA&pp=ygUQRnVuw6fDo28gSW52ZXJzYQ%3D%3D",
+    "serie": "2ª série EM"
+  },
+  {
+    "nome": "Função Composta",
+    "descricao": "Construção de uma função aplicando uma função a outra, simbolizada por f(g(x)).",
+    "link": "https://www.youtube.com/watch?v=OqNcQoJEWNU&pp=ygURRnVuw6fDo28gQ29tcG9zdGE%3D",
+    "serie": "2ª série EM"
+  },
+  {
+    "nome": "Equações Logarítmicas",
+    "descricao": "Resolução de equações que envolvem logaritmos, aplicando suas propriedades para isolar a incógnita.",
+    "link": "https://www.youtube.com/watch?v=p3_5-CMZ7Bk&pp=ygUYRXF1YcOnw7VlcyBMb2dhcsOtdG1pY2Fz",
+    "serie": "2ª série EM"
+  },
+  {
+    "nome": "Medidas de Superfície (Área)",
+    "descricao": "Cálculo de área de figuras planas básicas (quadrado, retângulo, triângulo, círculo).",
+    "link": "https://www.youtube.com/watch?v=dArATPsuLjM&pp=ygUeTWVkaWRhcyBkZSBTdXBlcmbDrWNpZSAow4FyZWEp",
+    "serie": "7º ano EF"
+  },
+  {
+    "nome": "Propriedades da Igualdade",
+    "descricao": "Princípios aditivo e multiplicativo usados para manipular equações e manter o equilíbrio.",
+    "link": "https://www.youtube.com/watch?v=tfVucbD7WMA&pp=ygUZUHJvcHJpZWRhZGVzIGRhIElndWFsZGFkZQ%3D%3D",
+    "serie": "6º ano EF"
+  },
+  {
+    "nome": "Razões Trigonométricas",
+    "descricao": "Definição e aplicação de seno, cosseno e tangente em triângulos retângulos.",
+    "link": "https://www.youtube.com/watch?v=D-E_A04ReTE&pp=ygUYUmF6w7VlcyBUcmlnb25vbcOpdHJpY2Fz",
+    "serie": "1ª série EM"
+  }
+]
