@@ -1,8 +1,9 @@
-# π Base de Conhecimento Matemático 🧠 link: 
+# π Base de Conhecimento Matemático 🧠 link:
 
 Uma interface web interativa e responsiva que serve como uma base de conhecimento para vídeos de matemática. O projeto organiza conteúdos por série escolar, permite busca em tempo real e oferece uma experiência de usuário agradável com temas claro e escuro.
 
-*(Sugestão: Tire um print da sua aplicação e substitua o link acima para exibir uma prévia real!)*
+<img width="1918" height="853" alt="image" src="https://github.com/user-attachments/assets/282ac912-4786-4238-b8c1-b09cec08bf4a" />
+
 
 ## 🎯 Objetivo do Projeto
 
@@ -25,11 +26,16 @@ Este projeto foi construído utilizando tecnologias web padrão, com foco em boa
 
 ### 🌐 Front-End
 
-| Tecnologia | Descrição |
-| :--- | :--- |
-| **HTML5** | Estruturação semântica do conteúdo com tags como `<header>`, `<main>`, `<section>` e `<footer>` para maior clareza e acessibilidade. |
-| **CSS3** | Estilização moderna com **Flexbox** e **Grid Layout** para criar um design responsivo e alinhado. O sistema de temas é implementado com **Variáveis CSS** (`custom properties`), permitindo a troca de paleta de cores de forma eficiente. |
-| **JavaScript (ES6+)** | Responsável por toda a interatividade da página: requisições assíncronas (`fetch`) para carregar os dados, manipulação do DOM para renderizar conteúdo dinâmico, gerenciamento de eventos (filtros, busca, modal, tema) e uso do `localStorage` para salvar a preferência de tema do usuário. |
+*   **HTML5**: Estruturação semântica do conteúdo com tags como `<header>`, `<main>`, `<section>` e `<footer>` para maior clareza e acessibilidade. O logo é um SVG embutido para permitir estilização dinâmica.
+
+*   **CSS3**:
+    *   **Variáveis CSS (Custom Properties)**: O sistema de temas (claro/escuro) é implementado de forma eficiente utilizando variáveis (`--primary-color`, `--bg-color`, etc.), que são redefinidas no seletor `body[data-theme="light"]`.
+    *   **Layouts Modernos**: **Flexbox** é usado para alinhar elementos no cabeçalho, filtros e rodapé. **Grid Layout** (`grid-template-columns: repeat(auto-fill, ...)` ) cria a grade de cards responsiva que se adapta automaticamente ao tamanho da tela.
+    *   **Design Responsivo**: Uso de **`@media` queries** para ajustar o layout, fontes e disposição dos elementos em tablets e celulares, garantindo uma experiência consistente em qualquer dispositivo.
+    *   **Transições e Animações**: Efeitos de `transition` são aplicados em botões, links e cards para criar interações suaves (`:hover`, `:active`). O efeito de `transform: scale()` nos cards fornece um feedback visual elegante.
+    *   **Estilização de Componentes**: Estilos customizados para a barra de rolagem (`::-webkit-scrollbar`), modais (`position: fixed`), e outros elementos, criando uma identidade visual coesa para a aplicação.
+
+*   **JavaScript (ES6+)**: Responsável por toda a interatividade da página: requisições assíncronas (`fetch`) para carregar os dados, manipulação do DOM para renderizar conteúdo dinâmico, gerenciamento de eventos (filtros, busca, modal, tema) e uso do `localStorage` para salvar a preferência de tema do usuário.
 
 ### 📦 Bibliotecas e Recursos
 
@@ -40,4 +46,4 @@ Este projeto foi construído utilizando tecnologias web padrão, com foco em boa
 
 ## 🚀 Como Executar o Projeto
 
-Clique no Link: 
+Clique no link: 
