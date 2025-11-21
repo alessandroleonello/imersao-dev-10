@@ -2,7 +2,7 @@
 
 Uma interface web interativa e responsiva que serve como uma base de conhecimento para vídeos de matemática. O projeto organiza conteúdos por série escolar, permite busca em tempo real e oferece uma experiência de usuário agradável com temas claro e escuro.
 
-<img width="1918" height="853" alt="image" href:"https://alessandroleonello.github.io/imersao-dev-10/" src="https://github.com/user-attachments/assets/282ac912-4786-4238-b8c1-b09cec08bf4a" />
+<img width="1918" height="853" alt="image" src="https://github.com/user-attachments/assets/282ac912-4786-4238-b8c1-b09cec08bf4a" href="https://alessandroleonello.github.io/imersao-dev-10/" />
 
 
 ## 🎯 Objetivo do Projeto
