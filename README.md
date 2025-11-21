@@ -1,4 +1,4 @@
-# π Base de Conhecimento Matemático 🧠 link:
+# π Base de Conhecimento Matemático 🧠 link: https://alessandroleonello.github.io/imersao-dev-10/
 
 Uma interface web interativa e responsiva que serve como uma base de conhecimento para vídeos de matemática. O projeto organiza conteúdos por série escolar, permite busca em tempo real e oferece uma experiência de usuário agradável com temas claro e escuro.
 
@@ -46,4 +46,4 @@ Este projeto foi construído utilizando tecnologias web padrão, com foco em boa
 
 ## 🚀 Como Executar o Projeto
 
-Clique no link: 
+Clique no link: https://alessandroleonello.github.io/imersao-dev-10/
